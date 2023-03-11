@@ -1,0 +1,1 @@
+this my second readme.md file it is added to second dir
